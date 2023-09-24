@@ -1,18 +1,25 @@
-## Getting Started
+# Contador
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Essa aplicação em Java é um sistema que recebe dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações e realizar a impressão no console dos números incrementados.
 
-## Folder Structure
+## 🚀 Tecnologia
 
-The workspace contains two folders by default, where:
+- ⚡ Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- ## ✋🏻 Pré-requisitos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
 
-## Dependency Management
+- [Node.js](https://nodejs.org/en): Software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [Java SDK 11 ou Acima](https://jdk.java.net/11/): É uma versão importante do Kit de Desenvolvimento Java lançada pela Oracle.
+
+## :hammer_and_wrench: Antes de iniciar o projeto.
+
+No diretório do projeto, inicialize o projeto e instale as dependências:
+
+  ### `npm install`
+  
+  Instala as dependências.
